@@ -1,0 +1,10 @@
+anthropic
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+streamlit
+pypdf2
+python-docx
+torchvision
